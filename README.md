@@ -25,7 +25,8 @@ This project follows a systematic approach to develop and deploy a predictive mo
 - Statistical Analysis: Conduct statistical tests to validate assumptions and identify significant predictors of diabetes.
 - Feature Engineering: Create new features or transform existing ones to improve the performance of machine learning models.
 - Feature Selection: Select the most relevant features using techniques like correlation analysis, feature importance, or dimensionality reduction.
-- Machine Learning Models:
-    Random Forest Classifier: Ensemble learning method that combines multiple decision trees to make predictions.
-    K-Nearest Neighbors (KNN): Non-parametric algorithm that classifies data points based on the majority vote of their neighbors.
-    Logistic Regression: Statistical model used for binary classification by estimating the probability of the outcome.
+
+### Machine Learning Models:
+- Random Forest Classifier: Ensemble learning method that combines multiple decision trees to make predictions.
+- K-Nearest Neighbors (KNN): Non-parametric algorithm that classifies data points based on the majority vote of their neighbors.
+- Logistic Regression: Statistical model used for binary classification by estimating the probability of the outcome.
