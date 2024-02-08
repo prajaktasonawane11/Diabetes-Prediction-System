@@ -1,5 +1,7 @@
 # Diabetes-Prediction-System
 
+![DiabetesPredSys](https://github.com/prajaktasonawane11/Diabetes-Prediction-System/blob/main/diabetespred.jpeg)
+
 ### Problem Statement
 - Diabetes is a group of diseases characterized by high blood sugar levels due to insufficient insulin production or improper use of insulin by the body. This condition can lead to various health complications, including heart disease, blindness, and kidney failure. Therefore, early detection and management are essential for reducing the risk of complications and improving the quality of life for individuals with diabetes.
 
